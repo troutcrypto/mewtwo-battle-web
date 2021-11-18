@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It contains the frontend code for [Mewtwo Battle](https://github.com/troutcrypto/mewtwo-battle).
 
 ## Running on Repl.it
 
